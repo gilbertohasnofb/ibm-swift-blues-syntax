@@ -1,0 +1,22 @@
+{
+  "bugs": {
+    "url": "https://github.com/gilbertohasnofb/ibm-swift-blues-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Syntax theme based on IBM's Swift Sandbox theme",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">= 1.13"
+  },
+  "homepage": "https://github.com/gilbertohasnofb/ibm-swift-blues-syntax#readme",
+  "name": "ibm-swift-blues-syntax",
+  "optionalDependencies": {},
+  "readme": "## IBM Swift Blues theme\n\nA theme for Atom.\n\nInspired by IBM's [Swift Sandbox Theme](https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox/). The code is based on the [Firewatch Syntax Theme](https://atom.io/themes/firewatch-syntax).\n\n![ibm-swift-screenshot](https://raw.githubusercontent.com/gilbertohasnofb/ibm-swift-blues-syntax/master/ibm-swift-blues-syntax-screenshot.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilbertohasnofb/ibm-swift-blues-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.0.0"
+}
